@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/*.db*
+data/detector-model*.json
+.env
+server-test.*
+tests/.last-smoke.json
+tests/smoke.db*
+tests/detector-model.json
+data/models/
+tests/llm.db*
+tests/security.db*
