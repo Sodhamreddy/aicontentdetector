@@ -7,6 +7,5 @@ server-test.*
 tests/.last-smoke.json
 tests/smoke.db*
 tests/detector-model.json
-data/models/
 tests/llm.db*
 tests/security.db*
